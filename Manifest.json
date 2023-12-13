@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "QR Code Reader EXTREME",
+  "version": "0.420",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
